@@ -1,0 +1,13 @@
+c:\users\henrique\documents\visual studio 2015\Projects\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.exe.config
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.exe.config
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.exe
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.pdb
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.csprojResolveAssemblyReference.cache
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.exe
+C:\Users\Saraiva\Documents\Visual Studio 2015\Projects\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.pdb
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.exe.config
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.exe
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\bin\Debug\LambdaExemplo.pdb
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.csprojResolveAssemblyReference.cache
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.exe
+C:\Users\Saraiva\Documents\DevMedia Vídeo aulas\_Micro-cursos\13 - O que são expressões lambda\2 - Expressões lambda na prática - C#\ExpressoesLambda\LambdaExemplo\obj\Debug\LambdaExemplo.pdb
